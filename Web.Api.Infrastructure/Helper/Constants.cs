@@ -6,6 +6,6 @@ namespace Web.Api.Infrastructure.Helper
 {
    public class Constants
     {
-        public static string connection= "Server=sharepoint03;Database=NodeTest;Trusted_Connection=False;User=sa;password=Mahant@2984";
+        public static string connection= "Server=your Server Name;Database=NodeTest;Trusted_Connection=False;User=userName;password=password";
     }
 }
